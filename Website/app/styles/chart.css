@@ -1,0 +1,45 @@
+#chart_div {
+    height: auto;
+}
+#title_chart {
+    margin-left: 100px;
+}
+.panel-green {
+    border-color: #5cb85c;
+    background: #5cb85c;
+}
+.panel-green > .panel-heading{
+    color: white;
+}
+.panel-yellow {
+    border-color: #f0ad4e;
+    background: #f0ad4e;
+}
+.panel-yellow > .panel-heading{
+    color: white;
+}
+.panel-red {
+    border-color: #d9534f;
+    background: #d9534f;
+}
+.panel-red > .panel-heading{
+    color: white;
+}
+.table-responsive {
+    margin-top: 50px;
+}
+
+#draw_chart_day {
+    height: 400px;
+    width: 60%;
+}
+
+#draw_chart_week{
+    height: 400px;
+    width: 60%;
+}
+
+#draw_chart_month{
+    height: 400px;
+    width: 70%;
+}
